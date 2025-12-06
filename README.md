@@ -50,7 +50,7 @@ const bhavuk = {
 
 | 🎓 Education | 🌱 Learning | 💼 Open For | 🎯 Goal |
 |:---:|:---:|:---:|:---:|
-| Computer Science | Advanced Python & DSA | Internships | Build Impactful Projects |
+| Computer Science | Advanced Python & DSA | Projects | Build Impactful Product |
 
 </div>
 
